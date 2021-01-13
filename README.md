@@ -1,5 +1,7 @@
 # Always be coding
 
+![Product photo](/images/productpic.png)
+
 Supercharge your ICS 33 experience with the ***Pattis Dark Mode*** Chrome extension, the ultimate eye protecting solution for your late-night study/cram sessions 🌙
 
 ### How to install
